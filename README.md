@@ -1,5 +1,5 @@
 
-# Piranha Server - Hello World
+# Piranha Server Hello World template
 
 This project delivers you with a template to get started with Piranha Server. 
 
